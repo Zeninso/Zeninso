@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zeninso
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning  python and java
+- 🌱 I’m currently learning  python and java , php laravel, and c#
 - 💞️ I’m looking to collaborate on web developing
 - 📫 How to reach me vincentvillas0208@gmail.com
 - 😄 Pronouns: He/Him
